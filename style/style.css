@@ -1,0 +1,36 @@
+.modal-open, .tableHeader, .tableBody{
+    font-size: 12px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modal-body{
+    border: 6px solid #ff8f1c;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{    
+    border-bottom:2px solid #ff8f1c;    
+    color: #5cb85c;  
+}
+
+.nav-tabs>li>a{
+    color: #555;
+    font-weight: bold;    
+}
+
+.nav-tabs>li>a:hover{
+    background: white;
+    color:#ff8f1c;
+    border-color: eee;
+}
+
+.detail-grid .col-md-4, .detail-grid .col-md-6, .detail-grid .col-md-12{
+     border: 1px solid #eceeef;
+}
+
+.headerControl{
+    font-weight: bold;
+    font-style: italic;   
+    color: rgba(0,0,0,.5);    
+    font-size: .9em; 
+    margin-top: .3rem;
+}
